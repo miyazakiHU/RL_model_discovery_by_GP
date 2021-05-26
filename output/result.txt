@@ -1,0 +1,1 @@
+protectedDiv(add(r, q), sub(1, -1))
